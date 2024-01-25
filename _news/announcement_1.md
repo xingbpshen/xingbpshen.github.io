@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-24
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:star2: I am honored to have been selected as a SURE2023 Award recipient within the Department of Electrical and Computer Engineering.

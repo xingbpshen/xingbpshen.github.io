@@ -23,4 +23,5 @@ social: true # includes social icons at the bottom of the page
 I am a Master's student at McGill University and Mila - Quebec AI Institute, supervised by <a href='https://www.cim.mcgill.ca/~arbel/'>Prof. Tal Arbel</a>.
 I obtained B.Eng. degree in Computer Engineering from McGill University.
 
-My <b>research</b> wd
+<b>Research interests:</b> My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on out-of-distribution robustness and uncertainty quantification methods. 
+Concurrently, I am working on leveraging AI to propel scientific discovery and innovate in medical diagnostics and treatment, with a goal of realizing Human-AI society for the benefit of all.
