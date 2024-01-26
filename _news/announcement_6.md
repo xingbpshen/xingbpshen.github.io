@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-02-24
+date: 2024-01-12
 inline: true
 related_posts: false
 ---
 
-:star2: I am honored to have been selected as a SURE2023 Award recipient within the Department of Electrical and Computer Engineering.
+:star2: I officially join <a href='https://mila.quebec/en/'>Mila - Quebec AI Institute</a>, a world recognized AI research institute leaded by <a href='https://mila.quebec/en/person/bengio-yoshua/'>Prof. Yoshua Bengio</a>.
