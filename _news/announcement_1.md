@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: I am honored to have been selected as a SURE2023 Award recipient within the Department of Electrical and Computer Engineering.
+:star2: I am honored to have been selected as a <b>Paul Cmikiewicz Award</b> recipient within the Department of Electrical and Computer Engineering at McGill University.
