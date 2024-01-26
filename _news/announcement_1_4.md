@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2023-02-24
+inline: true
+related_posts: false
+---
+
+:star2: I am honored to have been selected as a <b>SURE 2023 Scholarship</b> recipient within Faculty of Engineering at McGill University.
