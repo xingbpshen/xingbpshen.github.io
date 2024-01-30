@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: I am honored to have been selected as a recipient of the <b>Cooperstock Graduate Award</b> at McGill University.
+:trophy: I am honored to have been selected as a recipient of the <b>Cooperstock Graduate Award</b> at McGill University.
