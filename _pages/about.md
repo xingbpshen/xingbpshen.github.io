@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master's student at McGill University and Mila - Quebec AI Institute, supervised by <a href='https://www.cim.mcgill.ca/~arbel/'>Prof. Tal Arbel</a>.
+I am a first-year Master's student at McGill University and Mila - Quebec AI Institute, supervised by <a href='https://www.cim.mcgill.ca/~arbel/'>Prof. Tal Arbel</a>.
 I obtained B.Eng. degree in Computer Engineering from McGill University.
 
 <b>Research interests:</b> My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on out-of-distribution robustness and uncertainty quantification methods. 
