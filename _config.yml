@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Xing Shen 沈幸 # the website title (if blank, full name will be used instead)
 first_name: Xing
 middle_name:
 last_name: Shen
@@ -283,8 +283,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Shen]
+  first_name: [Xing]
 
   style: apa
   locale: en
