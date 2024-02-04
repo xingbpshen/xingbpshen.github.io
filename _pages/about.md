@@ -26,3 +26,8 @@ I obtained B.Eng. degree in Computer Engineering from McGill University.
 
 <b>Research interests:</b> My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on out-of-distribution robustness and uncertainty quantification methods. 
 Concurrently, I am working on leveraging AI to propel scientific discovery and innovate in medical diagnostics and treatment, with a goal of realizing Human-AI society for the benefit of all.
+
+<blockquote>
+    <p><em>"The distinction between the past, present, and future is only a stubbornly persistent illusion."</em></p>
+    <footer>— Albert Einstein, March 1955</footer>
+</blockquote>
