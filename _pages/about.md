@@ -24,10 +24,9 @@ social: true # includes social icons at the bottom of the page
 I am a first-year Master's student at McGill University and Mila - Quebec AI Institute, supervised by <a href='https://www.cim.mcgill.ca/~arbel/'>Prof. Tal Arbel</a>.
 I obtained B.Eng. degree in Computer Engineering from McGill University.
 
-<b>Research interests:</b> My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on out-of-distribution robustness and uncertainty quantification methods. 
-Concurrently, I am working on leveraging AI to propel scientific discovery and innovate in medical diagnostics and treatment, with a goal of realizing Human-AI society for the benefit of all.
+<b>Research interests:</b> My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on out-of-distribution generalization, uncertainty quantification, and causality. Concurrently, I am working on leveraging AI to propel scientific discovery and innovate in medical diagnostics and treatment. I am actively seeking opportunities to contribute my ideas and knowledge to the AI community with a goal of realizing Human-AI society for the benefit of all.
 
 <blockquote style="font-size: small;">
-    <p><em>"The distinction between the past, present, and future is only a stubbornly persistent illusion."</em></p>
-    <footer>— Albert Einstein, March 1955</footer>
+    <p><em>"Never interrupt someone doing something you said couldn't be done."</em></p>
+    <footer>— Amelia Earhart</footer>
 </blockquote>
