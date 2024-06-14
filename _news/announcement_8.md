@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:book: Our paper "Verbalized Probabilistic Graphical Modeling with Large Language Models" is now live on arXiv! [<a href='https://arxiv.org/abs/2406.05516'>paper</a>]
+:book: Our paper "Verbalized Probabilistic Graphical Modeling with Large Language Models" is live on arXiv! [<a href='https://arxiv.org/abs/2406.05516'>paper</a>]
