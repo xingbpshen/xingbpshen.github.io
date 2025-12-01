@@ -69,7 +69,7 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 - [Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)<br>Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]<br>**_ICCV 2025 Workshops_**
 
 # 🎖 Honors and Awards
-- Healthy Brains, Healthy Lives (HBHL) Fellowship 2025
+- Healthy Brains, Healthy Lives (HBHL) Fellowship 2024
 - McGill Undergraduate Research Award 2023
 
 # 🎓 Education
