@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xing Shen 沈幸"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student in Computer Science at University of Ottawa, EECS."
+  bio              : "Ph.D. student in Computer Science at University of Ottawa, EECS.<br><br><i>Photo credit: Lexin Zhang</i>"
   location         : "Ottawa, ON, Canada"
   employer         :
   pubmed           : 
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "xing-shen-88bab7178"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-9639-2027"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
