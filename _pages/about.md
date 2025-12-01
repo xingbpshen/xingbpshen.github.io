@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a first-year Ph.D. student in Computer Science at the University of Ottawa, EECS, supervised by Prof. [Changjian Shui](https://cjshui.github.io). Previously, I completed my M.Sc. in Electrical Engineering at McGill University and Mila - Quebec AI Institute under the supervision of Prof. [Tal Arbel](https://cim.mcgill.ca/~arbel/). I also received my B.Eng. in Computer Engineering from McGill University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on advancing algorithms and methods for trustworthy machine learning, especially on uncertainty quantification, calibration, and fairness, with application in multimodal artificial intelligence for healthcare.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📰 News
+- *2025.11*: &nbsp; Our paper "BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling" has been accepted to <b>AAAI 2026</b>.
+- *2025.10*: &nbsp; Our <b>Calibration Guidance Prompt Generator 1.5B</b> model is now live on Hugging Face 🤗 ! [[**Link**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)]
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/bayesagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hengguan Huang\*, **Xing Shen**\*, Guang-Yuan Hao, Songtao Wang, Lingfa Meng, Dianbo Liu, David Alejandro Duchene, Hao Wang, and Samir Bhatt
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reasoning-vpgm)] [[**Appendix**](https://github.com/xingbpshen/agentic-reasoning-vpgm/blob/main/assets/appendix.pdf)]
+
+**_The 40th Annual AAAI Conference on Artificial Intelligence_, 2026**
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/caline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_22)
+
+**Xing Shen**, Justin Szeto, Mingyang Li, Hengguan Huang, and Tal Arbel
+
+[[**Code**](https://github.com/xingbpshen/medical-calibration-fairness-mllm)] [[**Preprint**](https://arxiv.org/abs/2506.23298)]
+
+**_The 28th International Conference on Medical Image Computing and Computer Assisted Intervention_, 2025**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Med. Imaging</div><img src='images/ladine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles](https://ieeexplore.ieee.org/document/11059995)
+
+**Xing Shen**, Hengguan Huang, Brennan Nichyporuk, and Tal Arbel
+
+[[**Code**](https://github.com/xingbpshen/nested-diffusion)] [[**Preprint**](https://arxiv.org/abs/2310.15952)]
+
+**_IEEE Transactions on Medical Imaging_, 2025**
+</div>
+</div>
+
+- [Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)<br>Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]<br>**_ICCV 2025 Workshops_**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Healthy Brains, Healthy Lives (HBHL) Fellowship 2025
+- McGill Undergraduate Research Award 2023
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Education
+- *2026.01 - now*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa.
+- *2024.01 - 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University, Mila - Quebec AI Institute. **GPA 4.0/4.0**.
+- *2018.09 - 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Service
+- Conference reviewer for AISTATS 2025-2026 and NeurIPS 2025.
+- Journal reviewer for Front. Radiol. and TMLR.
