@@ -66,7 +66,7 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 </div>
 </div>
 
-- [Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)<br>Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]<br>**_ICCV 2025 Workshops_**
+- [Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)<br>Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]<br>**_IEEE/CVF International Conference on Computer Vision (ICCV) Workshops_, 2025**
 
 # 🎖 Honors and Awards
 - Healthy Brains, Healthy Lives (HBHL) Fellowship 2024
@@ -74,7 +74,7 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 
 # 🎓 Education
 - *2026.01 - now*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa.
-- *2024.01 - 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University, Mila - Quebec AI Institute. **GPA 4.0/4.0**.
+- *2024.01 - 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila - Quebec AI Institute. **GPA 4.0/4.0**.
 - *2018.09 - 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**. 
 
 # 💻 Professional Service
