@@ -79,4 +79,4 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 
 # 💻 Professional Service
 - Conference reviewer for AISTATS 2025-2026 and NeurIPS 2025.
-- Journal reviewer for Front. Radiol. and TMLR.
+- Journal reviewer for Front. Radiol., TMLR, and TPAMI.
