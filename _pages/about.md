@@ -36,7 +36,9 @@ Hengguan Huang\*, **Xing Shen**\*, Guang-Yuan Hao, Songtao Wang, Lingfa Meng, Di
 
 _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reasoning-vpgm)] [[**Appendix**](https://github.com/xingbpshen/agentic-reasoning-vpgm/blob/main/assets/appendix.pdf)]
 
-**_The 40th Annual AAAI Conference on Artificial Intelligence_, 2026**
+**_The 40th Annual AAAI Conference on Artificial Intelligence_, 2026** 
+
+![](https://img.shields.io/badge/CORE-A*-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-A-3f51b5?labelColor=3f51b5)
 </div>
 </div>
 
@@ -50,6 +52,8 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 [[**Code**](https://github.com/xingbpshen/medical-calibration-fairness-mllm)] [[**Preprint**](https://arxiv.org/abs/2506.23298)]
 
 **_The 28th International Conference on Medical Image Computing and Computer Assisted Intervention_, 2025**
+
+![](https://img.shields.io/badge/CORE-A-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5)
 </div>
 </div>
 
@@ -63,6 +67,8 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 [[**Code**](https://github.com/xingbpshen/nested-diffusion)] [[**Preprint**](https://arxiv.org/abs/2310.15952)]
 
 **_IEEE Transactions on Medical Imaging_, 2025**
+
+![](https://img.shields.io/badge/中科院-双1区Top-e91e63?labelColor=e91e63) ![](https://img.shields.io/badge/JCR-Q1-228b22?labelColor=228b22) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5)
 </div>
 </div>
 
