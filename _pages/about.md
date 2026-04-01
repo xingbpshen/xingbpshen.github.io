@@ -30,7 +30,7 @@ My research focuses on advancing theories and algorithms for trustworthy machine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/bayesagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling](https://arxiv.org/abs/2406.05516)
+[BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/39347)
 
 Hengguan Huang\*, **Xing Shen**\*, Guang-Yuan Hao, Songtao Wang, Lingfa Meng, Dianbo Liu, David Alejandro Duchene, Hao Wang, and Samir Bhatt
 
