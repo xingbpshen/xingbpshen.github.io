@@ -83,10 +83,11 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 - McGill Summer Undergraduate Research in Engineering (SURE) Award (2023)
 
 # 🎓 Education
-- *2026.01 - now*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa.
-- *2024.01 - 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila - Quebec AI Institute. **GPA 4.0/4.0**.
-- *2018.09 - 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**. 
+- *2026.01 – now*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa.
+- *2024.01 – 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila - Quebec AI Institute. **GPA 4.0/4.0**.
+- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**. 
 
 # 💻 Professional Service
-- Conference reviewer for AISTATS 2025-2026 and NeurIPS 2025.
-- Journal reviewer for TPAMI, TMLR, and Front. Radiol.
+- **Conference Reviewer**, AISTATS (2025–2026), NeurIPS (2025–2026)
+- **Journal Reviewer**, IEEE TPAMI, TMLR, Front. Radiol.
+- **Teaching Assistant**, CSI 3131 Operating Systems, University of Ottawa
