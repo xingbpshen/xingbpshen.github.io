@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at the University of Ottawa, EECS, supervised by Prof. [Changjian Shui](https://cjshui.github.io). Previously, I completed my M.Sc. in Electrical Engineering at McGill University and Mila - Quebec AI Institute under the supervision of Prof. [Tal Arbel](https://cim.mcgill.ca/~arbel/). I also received my B.Eng. in Computer Engineering from McGill University.
+I am a first-year Ph.D. student in Computer Science at the University of Ottawa, EECS, supervised by Prof. [Changjian Shui](https://cjshui.github.io). Previously, I completed my M.Sc. in Electrical Engineering at McGill University and Mila — Quebec AI Institute under the supervision of Prof. [Tal Arbel](https://cim.mcgill.ca/~arbel/). I also received my B.Eng. in Computer Engineering from McGill University.
 
-My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on uncertainty quantification, calibration, and generalization, with application in multimodal artificial intelligence for healthcare.
+My research focuses on advancing theories and algorithms for trustworthy machine learning, especially on uncertainty quantification, calibration, and generalization, with application in data-centric AI and multimodal AI for healthcare.
 
 # 📰 News
 - *2025.11*: &nbsp; Our paper "BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling" has been accepted to <b>AAAI 2026</b>.
