@@ -72,7 +72,19 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 </div>
 </div>
 
-- [Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)<br>Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]<br>**_IEEE/CVF International Conference on Computer Vision (ICCV) Workshops_, 2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Workshop</div><img src='images/prompt4trust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)
+
+Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_
+
+[[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]
+
+**_IEEE/CVF International Conference on Computer Vision (ICCV) Workshops_, 2025**
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - University of Ottawa Ph.D. Research Fellowship (2026)
@@ -83,11 +95,11 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 - McGill Summer Undergraduate Research in Engineering (SURE) Award (2023)
 
 # 🎓 Education
-- *2026.01 – now*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa.
-- *2024.01 – 2025.12*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila - Quebec AI Institute. **GPA 4.0/4.0**.
-- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**. 
+- *2026.01 – present*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa, **CGPA 10.0/10.0**
+- *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila - Quebec AI Institute, **CGPA 4.0/4.0**
+- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**
 
 # 💻 Professional Service
-- **Conference Reviewer**, AISTATS (2025–2026), NeurIPS (2025–2026)
+- **Conference Reviewer**, NeurIPS (2025–2026), AISTATS (2025–2026)
 - **Journal Reviewer**, IEEE TPAMI, TMLR, Front. Radiol.
 - **Teaching Assistant**, CSI 3131 Operating Systems, University of Ottawa
