@@ -101,5 +101,5 @@ Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equa
 
 # 💻 Professional Service
 - **Conference Reviewer**, NeurIPS (2025–2026), AISTATS (2025–2026)
-- **Journal Reviewer**, IEEE TPAMI, TMLR, Front. Radiol.
+- **Journal Reviewer**, IEEE TPAMI, TMLR, IEEE JBHI, Front. Radiol.
 - **Teaching Assistant**, CSI 3131 Operating Systems, University of Ottawa
