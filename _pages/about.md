@@ -97,7 +97,7 @@ Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equa
 # 🎓 Education
 - *2026.01 – Present*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa, **CGPA 10.0/10.0**
 - *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila — Quebec AI Institute, **CGPA 4.0/4.0**
-- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University. **Graduated with Distinction**
+- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University, **Graduated with Distinction**
 
 # 💻 Professional Service
 - **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026)
