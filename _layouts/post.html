@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% comment %}
+  Blog post layout. `default.html` already supplies the masthead, the author
+  sidebar and the .page__content wrapper, so this only adds the parts a post
+  needs on top of a plain page: a title, a date, and a way back to the list.
+{% endcomment %}
+
+<h1 class="page__title post__title">{{ page.title }}</h1>
+
+<p class="page__meta">
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+</p>
+
+{% if page.tldr %}
+  <aside class="post__tldr">
+    <span class="post__tldr-label">TL;DR</span>
+    {{ page.tldr | markdownify | remove: "<p>" | remove: "</p>" }}
+  </aside>
+{% endif %}
+
+{{ content }}
+
+<p class="post__back">
+  <a href="/#-blog">&larr; Back to all posts</a>
+</p>

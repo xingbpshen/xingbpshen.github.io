@@ -1,4 +1,21 @@
-<script src="assets/js/main.min.js"></script>
+<script src="/assets/js/main.min.js"></script>
+
+<script>
+  /* Open links to other sites in a new tab, but keep navigation within this
+     site in the current one. This replaces a site-wide <base target="_blank">,
+     which sent even the menu bar and post links to new tabs.
+
+     Anchors with no hostname (mailto:, #fragment) are left alone. */
+  document.addEventListener('DOMContentLoaded', function () {
+    var here = window.location.hostname;
+    Array.prototype.forEach.call(document.querySelectorAll('a[href]'), function (a) {
+      if (a.hostname && a.hostname !== here) {
+        a.target = '_blank';
+        a.rel = a.rel ? a.rel + ' noopener' : 'noopener';
+      }
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

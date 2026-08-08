@@ -104,7 +104,17 @@ Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equa
 - **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
 - **Teaching Assistant**: CSI 4106 Introduction to Artificial Intelligence, CSI 3131 Operating Systems, University of Ottawa
 
-# Blogs
+# 📖 Blog
+<ul class="post-list">
+{%- for post in site.posts %}
+  <li class="post-list__item">
+    <em>{{ post.date | date: "%Y.%m" }}</em>: &nbsp; <a href="{{ post.url }}">{{ post.title }}</a>
+    {%- if post.tldr %}
+    <span class="post-list__tldr">{{ post.tldr | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span>
+    {%- endif %}
+  </li>
+{%- endfor %}
+</ul>
 
 <style>
 .visitor-map-rule {

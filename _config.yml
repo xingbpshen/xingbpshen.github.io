@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xing Shen 沈幸"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/images/android-chrome-512x512.png"
   bio              : "Ph.D. student in Computer Science at the University of Ottawa, EECS.<br><br><i>Photo credit: Lexin Zhang</i>"
   location         : "Ottawa, ON, Canada"
   employer         :
@@ -126,6 +126,14 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
+      permalink: /blog/:title/
 
 
 # Sass/SCSS

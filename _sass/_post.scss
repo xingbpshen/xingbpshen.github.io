@@ -1,0 +1,89 @@
+/* ==========================================================================
+   BLOG POSTS
+   ========================================================================== */
+
+/* `.page__content h1` gives every h1 a bottom rule, which reads as a section
+   divider. On a post the h1 is the page title, not a section, so drop it. */
+.page__content {
+  .post__title {
+    margin-top: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.page__content > .page__meta {
+  margin-top: 0.25em;
+  margin-bottom: 2.5em;
+  font-size: $type-size-6;
+  color: mix(#fff, $gray, 25%);
+}
+
+/* TL;DR summary, shown under the title on a post page. Deliberately quiet: a
+   left rule and a tinted panel rather than a boxed callout, so it reads as part
+   of the opening rather than as an interruption. */
+.post__tldr {
+  /* The theme floats `.page__meta` via the Susy grid, so without an explicit
+     clear this panel's background starts alongside the date instead of below it. */
+  clear: both;
+  margin: 0 0 3.5em;
+  padding: 1em 1.25em;
+  border-left: 3px solid $light-gray;
+  background-color: mix(#fff, $lighter-gray, 45%);
+  font-size: $type-size-6;
+  line-height: 1.7;
+  color: mix(#000, $gray, 25%);
+
+  .post__tldr-label {
+    display: block;
+    margin-bottom: 0.4em;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $gray;
+  }
+}
+
+/* Blog list on the homepage. The first line matches the News list exactly, so
+   the two sections read as siblings. The summary hangs underneath it, indented
+   to the text rather than the bullet. */
+.post-list__tldr {
+  display: block;
+  margin-top: 0.3em;
+  font-size: 0.85em;
+  line-height: 1.6;
+  color: mix(#000, $gray, 20%);
+}
+
+.post-list__item {
+  margin-bottom: 0.9em;
+}
+
+.post__back {
+  margin-top: 4em;
+  padding-top: 1.5em;
+  border-top: 1px solid $border-color;
+  font-size: $type-size-6;
+}
+
+/* Figures: keep images inside the measure and centre them, with the alt text
+   doubling as a caption when the image sits alone in its paragraph. */
+.page__content {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  figure {
+    margin: 2em 0;
+
+    figcaption {
+      margin-top: 0.5em;
+      font-size: $type-size-6;
+      color: mix(#fff, $gray, 25%);
+      text-align: center;
+    }
+  }
+}
