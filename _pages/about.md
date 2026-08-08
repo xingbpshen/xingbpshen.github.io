@@ -100,6 +100,6 @@ Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equa
 - *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University, **Graduated with Distinction**
 
 # 💻 Professional Service
-- **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026)
+- **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026), AAAI (2027)
 - **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
-- **Teaching Assistant**: CSI 3131 Operating Systems, University of Ottawa
+- **Teaching Assistant**: CSI 4106 Introduction to Artificial Intelligence, CSI 3131 Operating Systems, University of Ottawa
