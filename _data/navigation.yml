@@ -1,13 +1,18 @@
 # main links links
+# Order follows the sections down `_pages/about.md`, and each url is that
+# section's heading id.
 main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
+
+  - title: "Writing and Ideas"
+    url: "/#-writing-and-ideas"
+
   - title: "News"
     url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -17,9 +22,6 @@ main:
 
   - title: "Professional Service"
     url: "/#-professional-service"
-
-  - title: "Blog"
-    url: "/#-blog"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"

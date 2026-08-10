@@ -1,0 +1,66 @@
+/* ==========================================================================
+   HOMEPAGE SECTIONS
+   Styles for the sections of `_pages/about.md`: publications, writing, news,
+   honors, education, service. Post pages themselves live in `_post.scss`.
+   ========================================================================== */
+
+/* Space between entries, one knob per section. These are the only numbers to
+   touch when a section reads too tight or too loose; each is independent of
+   the rest. A list carrying no section modifier falls back to $section-gap. */
+$section-gap:            1.1em;
+$section-gap-pubs:       1.2em;
+/* Inside one publication, between its title, authors and venue lines. Keep it
+   well under $section-gap-pubs, or an entry stops reading as one block. */
+$pub-line-gap:           0.2em;
+$section-gap-writing:    1.1em;
+$section-gap-news:       1.1em;
+$section-gap-honors:     0.5em;
+$section-gap-education:  0.5em;
+$section-gap-service:    1.0em;
+
+/* Section lists. No markers and no indent: entries are set apart by the space
+   between them instead, which keeps every section flush with the running text
+   above it. */
+.plain-list {
+  padding-inline-start: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $section-gap;
+  }
+
+  &--writing   > li { margin-bottom: $section-gap-writing; }
+  &--news      > li { margin-bottom: $section-gap-news; }
+  &--honors    > li { margin-bottom: $section-gap-honors; }
+  &--education > li { margin-bottom: $section-gap-education; }
+  &--service   > li { margin-bottom: $section-gap-service; }
+}
+
+/* Writing list. The first line matches the News list exactly, so the two
+   sections read as siblings. The summary hangs underneath it. */
+.post-list__tldr {
+  display: block;
+  margin-top: 0.3em;
+  font-size: 0.85em;
+  line-height: 1.6;
+  color: mix(#000, $gray, 20%);
+}
+
+/* Publications. Each entry is three stacked paragraphs (title, authors, venue),
+   and paragraph spacing alone leaves no gap to separate one entry from the
+   next, so the entry itself carries that space. */
+.pub-item {
+  /* Overrides the theme's own `.page__content p` spacing, which is why this
+     partial has to stay last in the main.scss import list. */
+  > p {
+    margin-bottom: $pub-line-gap;
+  }
+
+  &:last-child > p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.pub-item + .pub-item {
+  margin-top: $section-gap-pubs;
+}

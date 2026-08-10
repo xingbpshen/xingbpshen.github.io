@@ -19,6 +19,18 @@
   color: mix(#fff, $gray, 25%);
 }
 
+/* Sits beside the date on a `public: false` post, so it is obvious when you are
+   looking at one that the homepage does not link to. */
+.post__unlisted {
+  margin-left: 0.9em;
+  padding: 0.1em 0.5em;
+  border: 1px solid $light-gray;
+  border-radius: 3px;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
 /* TL;DR summary, shown under the title on a post page. Deliberately quiet: a
    left rule and a tinted panel rather than a boxed callout, so it reads as part
    of the opening rather than as an interruption. */
@@ -46,20 +58,8 @@
   }
 }
 
-/* Blog list on the homepage. The first line matches the News list exactly, so
-   the two sections read as siblings. The summary hangs underneath it, indented
-   to the text rather than the bullet. */
-.post-list__tldr {
-  display: block;
-  margin-top: 0.3em;
-  font-size: 0.85em;
-  line-height: 1.6;
-  color: mix(#000, $gray, 20%);
-}
-
-.post-list__item {
-  margin-bottom: 0.9em;
-}
+/* The homepage list of posts, and every other homepage section, is styled in
+   `_homepage.scss`. What follows belongs to the post page itself. */
 
 .post__back {
   margin-top: 4em;

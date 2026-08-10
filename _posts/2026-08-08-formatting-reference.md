@@ -1,6 +1,7 @@
 ---
 title: "Formatting Reference for Posts: A Reminder to Myself"
 date: 2026-08-08
+public: false
 tldr: "What is available when writing a post here: math, tables, figures, code,
   and footnotes, with no setup needed beyond dropping a Markdown file into
   the posts folder."
@@ -16,7 +17,15 @@ two sentence summary. It appears in a box under the title here, and under the en
 in the list on the homepage, so write it for someone deciding whether to read on.
 It is optional, and both places simply omit it if absent. Everything else — layout, the
 sidebar, the entry in the list on the homepage — happens automatically. The URL
-comes from the slug, so this one lives at `/blog/formatting-reference/`.
+comes from the slug, so this one lives at `/writing/formatting-reference/`.
+
+One more field, `public`, decides whether the post shows up on the site at all.
+Leave it out and the post is public. Set `public: false` and it becomes unlisted:
+off the homepage list, out of the feed and the sitemap, and marked `noindex` so
+search engines pass it by. The page itself still builds, so the URL keeps working
+for anyone who has it, which is how this reference stays readable without being
+part of the site. To take a post off the site completely, use Jekyll's own
+`published: false` instead, which stops the page from being built.
 
 ## Math
 

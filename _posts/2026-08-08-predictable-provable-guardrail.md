@@ -1,6 +1,7 @@
 ---
 title: "Provable AI, Predictable AI, and Guardrails"
 date: 2026-08-08
+public: true
 tldr: "A proof is a conditional promise about inputs chosen in advance, while
   predictability is a forecast about the inputs a system actually meets. Neither
   property contains the other. A two-term bound makes visible exactly what a

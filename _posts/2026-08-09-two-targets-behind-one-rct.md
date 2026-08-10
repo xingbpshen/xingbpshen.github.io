@@ -1,6 +1,7 @@
 ---
 title: "Two Targets Behind One RCT Estimate"
 date: 2026-08-09
+public: true
 tldr: "The difference in means from a randomized trial is a single number, but it
   can be aimed at two different quantities: the average effect among the people who
   enrolled, or the average effect in the population we actually care about. The
@@ -211,7 +212,7 @@ different failure mode.
 A bound on $$|\hat\tau - \tau_F|$$ says nothing whatsoever about
 $$|\hat\tau - \tau_P|$$. Reporting the first while discussing the second is not a
 small slip. It is the [same
-mismatch](/blog/predictable-provable-guardrail/) I keep running into elsewhere: a
+mismatch](/writing/predictable-provable-guardrail/) I keep running into elsewhere: a
 guarantee proved over one domain, quoted in a setting the proof never covered.
 
 ## Concentration Is Not the Only Instrument

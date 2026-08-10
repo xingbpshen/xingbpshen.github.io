@@ -21,43 +21,45 @@ I am a first-year Ph.D. student in Computer Science at the University of Ottawa,
 
 My research studies **predictable AI**, with an emphasis on developing theoretically grounded quantities that allow us to anticipate the reliability and consequences of AI systems before their outcomes are observed. My earlier work focused on predicting inference reliability through confidence calibration, my current work extends this perspective to the training process, asking whether the effect of data interventions on population generalization can itself be predicted before the intervention is performed.
 
-# 📰 News
-- *2025.11*: &nbsp; Our paper "BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling" has been accepted to <b>AAAI 2026</b>.
-- *2025.10*: &nbsp; Our <b>Calibration Guidance Prompt Generator 1.5B</b> model is now live on Hugging Face 🤗 ! [[**Link**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)]
+# 📝 Selected Publications
+<div class="pub-list" markdown="1">
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/bayesagent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/39347)
+<div class="pub-item" markdown="1">
+**BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling**
 
 Hengguan Huang\*, **Xing Shen**\*, Guang-Yuan Hao, Songtao Wang, Lingfa Meng, Dianbo Liu, David Alejandro Duchene, Hao Wang, and Samir Bhatt
 
-_(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reasoning-vpgm)] [[**Appendix**](https://github.com/xingbpshen/agentic-reasoning-vpgm/blob/main/assets/appendix.pdf)]
-
-**_The 40th Annual AAAI Conference on Artificial Intelligence_, 2026** 
-
-![](https://img.shields.io/badge/CORE-A*-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-A-3f51b5?labelColor=3f51b5)
-</div>
+_AAAI 2026_ &nbsp; ![](https://img.shields.io/badge/CORE-A*-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-A-3f51b5?labelColor=3f51b5) &nbsp; _*Equal contribution_ &nbsp; [[Paper]((https://ojs.aaai.org/index.php/AAAI/article/view/39347))] [[Appendix](https://github.com/xingbpshen/agentic-reasoning-vpgm/blob/main/assets/appendix.pdf)] [[Code](https://github.com/xingbpshen/agentic-reasoning-vpgm)]
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/caline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_22)
+<div class="pub-item" markdown="1">
+**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**
 
 **Xing Shen**, Justin Szeto, Mingyang Li, Hengguan Huang, and Tal Arbel
 
-[[**Code**](https://github.com/xingbpshen/medical-calibration-fairness-mllm)] [[**Preprint**](https://arxiv.org/abs/2506.23298)]
-
-**_The 28th International Conference on Medical Image Computing and Computer Assisted Intervention_, 2025**
-
-![](https://img.shields.io/badge/CORE-A-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5)
-</div>
+_MICCAI 2025_ &nbsp; ![](https://img.shields.io/badge/CORE-A-6a1b9a?labelColor=6a1b9a) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5) &nbsp; [[Paper]((https://link.springer.com/chapter/10.1007/978-3-032-04981-0_22))] [[arXiv](https://arxiv.org/abs/2506.23298)] [[Code](https://github.com/xingbpshen/medical-calibration-fairness-mllm)]
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Med. Imaging</div><img src='images/ladine.png' alt="sym" width="100%"></div></div>
+<div class="pub-item" markdown="1">
+**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**
+
+**Xing Shen**, Hengguan Huang, Brennan Nichyporuk, and Tal Arbel
+
+_IEEE Transactions on Medical Imaging_, 2025 &nbsp; ![](https://img.shields.io/badge/中科院-双1区Top-e91e63?labelColor=e91e63) ![](https://img.shields.io/badge/JCR-Q1-228b22?labelColor=228b22) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5) &nbsp; [[Paper]((https://ieeexplore.ieee.org/document/11059995))] [[arXiv](https://arxiv.org/abs/2310.15952)] [[Code](https://github.com/xingbpshen/nested-diffusion)]
+</div>
+
+<div class="pub-item" markdown="1">
+**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**
+
+Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel
+
+_ICCV 2025 Workshops_ &nbsp; _*Equal contribution_ &nbsp; [[Paper]((https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html))] [[arXiv](https://arxiv.org/abs/2507.09279)] [[Code](https://github.com/xingbpshen/prompt4trust)] [[Hugging Face](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)]
+</div>
+
+</div>
+
+<!-- The below example illustrate a publication item with a figure, do not delete -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Med. Imaging</div><img src='images/ladine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles](https://ieeexplore.ieee.org/document/11059995)
@@ -70,43 +72,12 @@ _(*equal contribution)_ [[**Code**](https://github.com/xingbpshen/agentic-reason
 
 ![](https://img.shields.io/badge/中科院-双1区Top-e91e63?labelColor=e91e63) ![](https://img.shields.io/badge/JCR-Q1-228b22?labelColor=228b22) ![](https://img.shields.io/badge/CCF-B-3f51b5?labelColor=3f51b5)
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Workshop</div><img src='images/prompt4trust.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Kriz_Prompt4Trust_A_Reinforcement_Learning_Prompt_Augmentation_Framework_for_Clinically-Aligned_Confidence_ICCVW_2025_paper.html)
-
-Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equal contribution)_
-
-[[**Code**](https://github.com/xingbpshen/prompt4trust)] [[**Model**](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)] [[**Preprint**](https://arxiv.org/abs/2507.09279)]
-
-**_IEEE/CVF International Conference on Computer Vision (ICCV) Workshops_, 2025**
-
-</div>
-</div>
-
-# 🎖 Honors and Awards
-- University of Ottawa Ph.D. Research Fellowship (2026)
-- Graduate Research and Enhancement Travel (GREAT) Award (2025)
-- Healthy Brains, Healthy Lives (HBHL) Graduate Student Fellowship - funded via Canada First Research Excellence Fund (CFREF) (2024)
-- McGill University Master's Research Fellowship (2024)
-- McGill Faculty of Engineering Class 2023 Distinction
-- McGill Summer Undergraduate Research in Engineering (SURE) Award (2023)
-
-# 🎓 Education
-- *2026.01 – Present*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa, **CGPA 10.0/10.0**
-- *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila — Quebec AI Institute, **CGPA 4.0/4.0**
-- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University, **Graduated with Distinction**
-
-# 💻 Professional Service
-- **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026), AAAI (2027)
-- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
-- **Teaching Assistant**: CSI 4106 Introduction to Artificial Intelligence, CSI 3131 Operating Systems, University of Ottawa
-
-# 📖 Blog
-<ul class="post-list">
-{%- for post in site.posts %}
+# 💡 Writing and Ideas
+<ul class="post-list plain-list plain-list--writing">
+{%- assign listed_posts = site.posts | where_exp: "post", "post.public != false" %}
+{%- for post in listed_posts %}
   <li class="post-list__item">
     <em>{{ post.date | date: "%Y.%m" }}</em>: &nbsp; <a href="{{ post.url }}">{{ post.title }}</a>
     {%- if post.tldr %}
@@ -115,6 +86,32 @@ Anita Kriz\*, Elizabeth Laura Janes\*, **Xing Shen**\*, and Tal Arbel<br>_(*equa
   </li>
 {%- endfor %}
 </ul>
+
+# 📰 News
+- *2025.11*: &nbsp; Our paper "BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling" has been accepted to <b>AAAI 2026</b>.
+- *2025.10*: &nbsp; Our <b>Calibration Guidance Prompt Generator 1.5B</b> model is now live on Hugging Face 🤗 ! [[Hugging Face](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)]
+{: .plain-list .plain-list--news}
+
+# 🎖 Honors and Awards
+- University of Ottawa Ph.D. Research Fellowship (2026–2029)
+- Graduate Research and Enhancement Travel (GREAT) Award (2025)
+- Healthy Brains, Healthy Lives (HBHL) Graduate Student Fellowship - funded via Canada First Research Excellence Fund (CFREF) (2024–2025)
+- McGill University Master's Research Fellowship (2024–2025)
+- McGill Faculty of Engineering Class 2023 Distinction
+- McGill Summer Undergraduate Research in Engineering (SURE) Award (2023)
+{: .plain-list .plain-list--honors}
+
+# 🎓 Education
+- *2026.01 – Present*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa, **CGPA 10.0/10.0**
+- *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila — Quebec AI Institute, **CGPA 4.0/4.0**
+- *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University, **Graduated with Distinction**
+{: .plain-list .plain-list--education}
+
+# 💻 Professional Service
+- **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026), AAAI (2027)
+- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
+- **Teaching Assistant**: CSI 4106 Introduction to Artificial Intelligence, CSI 3131 Operating Systems, University of Ottawa
+{: .plain-list .plain-list--service}
 
 <style>
 .visitor-map-rule {

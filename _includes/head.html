@@ -2,6 +2,12 @@
 
 {% include seo.html %}
 
+{%- comment -%}
+  An unlisted post (`public: false`) stays reachable at its own URL, but should
+  not be indexed, so it never surfaces in a search result either.
+{%- endcomment -%}
+{% if page.public == false %}<meta name="robots" content="noindex, nofollow">{% endif %}
+
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

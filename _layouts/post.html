@@ -12,6 +12,9 @@ layout: default
 
 <p class="page__meta">
   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  {%- if page.public == false %}
+  <span class="post__unlisted">Unlisted</span>
+  {%- endif %}
 </p>
 
 {% if page.tldr %}
@@ -24,5 +27,5 @@ layout: default
 {{ content }}
 
 <p class="post__back">
-  <a href="/#-blog">&larr; Back to all posts</a>
+  <a href="/#-writing-and-ideas">&larr; Back to all posts</a>
 </p>

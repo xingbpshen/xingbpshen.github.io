@@ -133,7 +133,10 @@ defaults:
     values:
       layout: post
       author_profile: true
-      permalink: /blog/:title/
+      permalink: /writing/:title/
+      # `public: false` in a post's front matter unlists it: no homepage entry,
+      # no feed entry, no search engines. A post that says nothing is public.
+      public: true
 
 
 # Sass/SCSS
