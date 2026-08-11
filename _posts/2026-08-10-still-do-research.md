@@ -2,7 +2,7 @@
 title: "Would You Still Do the Research If Nobody Cared"
 date: 2026-08-10
 public: true
-tldr: "Before deciding whether to start or continue a research project, ask yourself four questions: Is there someone who could genuinely benefit from it? Would I still do it if nobody noticed? Can I maintain my judgment when others tell me to stop? And when someone disagrees with me, do I genuinely want to know if they are right? These questions are not meant to judge whether the research is objectively valuable, but to help us understand why we are doing it, and whether that reason is strong enough to keep going."
+tldr: "Before deciding whether to start or continue a research project, I ask myself four questions: Is there someone who could genuinely benefit from it? Would I still do it if nobody noticed? Can I maintain my judgment when others tell me to stop? And when someone disagrees with me, do I genuinely want to know if they are right? These questions are not meant to judge whether the research is objectively valuable, but to help us understand why we are doing it, and whether that reason is strong enough to keep going."
 ---
 
 Research is usually evaluated from the outside. Is the question important? Is the
