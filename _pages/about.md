@@ -109,7 +109,7 @@ _ICCV 2025 Workshops_ &nbsp; _*Equal contribution_ &nbsp; [[Paper]((https://open
 
 # 💻 Professional Service
 - **Conference Reviewer**: NeurIPS (2025–2026), AISTATS (2025–2026), AAAI (2027)
-- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
+- **Journal Reviewer**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Transactions on Machine Learning Research (TMLR), Medical Image Analysis (MedIA), IEEE Journal of Biomedical and Health Informatics (JBHI), Frontiers in Artificial Intelligence, Frontiers in Radiology, Journal of Imaging Informatics in Medicine
 - **Teaching Assistant**: CSI 4106 Introduction to Artificial Intelligence, CSI 3131 Operating Systems, University of Ottawa
 {: .plain-list .plain-list--service}
 
