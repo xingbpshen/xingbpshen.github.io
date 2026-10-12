@@ -88,6 +88,7 @@ _ICCV 2025 Workshops_ &nbsp; _*Equal contribution_ &nbsp; [[Paper]((https://open
 </ul>
 
 # 📰 News
+- *2026.10*: &nbsp; I am honored to be recognized as a <b>Top Reviewer</b> for <b>NeurIPS 2026</b>.
 - *2025.11*: &nbsp; Our paper "BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling" has been accepted to <b>AAAI 2026</b>.
 - *2025.10*: &nbsp; Our <b>Calibration Guidance Prompt Generator 1.5B</b> model is now live on Hugging Face 🤗 ! [[Hugging Face](https://huggingface.co/xingshen/prompt4trust-cgpgenerator-1.5B)]
 {: .plain-list .plain-list--news}
