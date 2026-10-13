@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at the University of Ottawa, EECS, supervised by Prof. [Changjian Shui](https://cjshui.github.io). Previously, I completed my M.Sc. in Electrical Engineering at McGill University and Mila — Quebec AI Institute under the supervision of Prof. [Tal Arbel](https://cim.mcgill.ca/~arbel/). I also received my B.Eng. in Computer Engineering from McGill University.
+I am a first-year Ph.D. student in Computer Science at the University of Ottawa, EECS, supervised by Prof. [Changjian Shui](https://cjshui.github.io). Previously, I completed my M.Sc. in Electrical Engineering at McGill University and Mila – Quebec AI Institute under the supervision of Prof. [Tal Arbel](https://cim.mcgill.ca/~arbel/). I also received my B.Eng. in Computer Engineering from McGill University.
 
 My research studies **predictable AI**, with an emphasis on developing theoretically grounded quantities that allow us to anticipate the reliability and consequences of AI systems before their outcomes are observed. My earlier work focused on predicting inference reliability through confidence calibration, my current work extends this perspective to the training process, asking whether the effect of data interventions on population generalization can itself be predicted before the intervention is performed.
 
@@ -104,7 +104,7 @@ _ICCV 2025 Workshops_ &nbsp; _*Equal contribution_ &nbsp; [[Paper]((https://open
 
 # 🎓 Education
 - *2026.01 – Present*: &nbsp; **Ph.D. in Computer Science**, University of Ottawa, **CGPA 10.0/10.0**
-- *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila — Quebec AI Institute, **CGPA 4.0/4.0**
+- *2024.01 – 2026.05*: &nbsp; **M.Sc. in Electrical Engineering**, McGill University and Mila – Quebec AI Institute, **CGPA 4.0/4.0**
 - *2018.09 – 2023.05*: &nbsp; **B.Eng. in Computer Engineering**, McGill University, **Graduated with Distinction**
 {: .plain-list .plain-list--education}
 
